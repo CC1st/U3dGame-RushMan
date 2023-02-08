@@ -1,4 +1,5 @@
 # [Game]RushMan
+This is a simple 2d pixel game. The game logic imitates the classic game "Squirrel Battle".
 
 ## How to get
 
